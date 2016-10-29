@@ -38,7 +38,7 @@ ScTurkey yazılımı iyzico'nun kart sorgulama servisini kullanarak işlemin mü
 **Yazılımın çıktıları:**
 
 * outputs.txt :  işlem kodu, "SUCCESS" ya da "FAIL", kazanç
-* logs.txt    :  işlem kodu, iyzico api'sini çağırma zamanı, kart numarası
+* logs.txt    :  iyzico api'sini çağırma zamanı, işlem kodu, kart numarası
 
 **Yazılımın Geliştirme Biçimi:**
 * Yazılım Pair Programming yapılarak geliştirilecektir.
