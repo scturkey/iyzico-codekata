@@ -1,0 +1,5 @@
+
+**Yazılım geliştirildikten sonra istenen yeni özellikler:**
+
+1. 10 Ocak'da Donald Knuth'un doğum gününe özel KNUTH kodu ile net 20 tl indirim tanımlanacak
+2. Vakıfbank DEBIT kartları da 80 tl'ye kadar geçerli olacak.
