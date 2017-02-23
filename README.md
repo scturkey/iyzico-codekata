@@ -25,7 +25,7 @@ Bilet satışlarını kendi siteleri üzerinden yapmak isteyen organizatörler b
 
 https://dev.iyzipay.com 'daki api yardımıyla bilet satmak isteyen ScTurkey'in önünde bazı kısıtlamalar vardır:
 
-1. Sadece Garanti Bankası, İş Bankası,Akbank ve Finansbank'a ait kartlara satış yapılabiliyordur.
+1. Sadece Garanti Bankası, İş Bankası,Akbank ve Finansbank'a ait kredi kartlarına satış yapılabiliyordur.
 2. Debit kartlara satış yapılamıyordur fakat Halk Bankası'na ait Debit kartları istisnadır.
 
 Yolcular belirli tarihlerde sisteme kart numaralarını girerler. İndirim kodunu doğru ya da yanlış girebilirler veya girmeyebilirler.
