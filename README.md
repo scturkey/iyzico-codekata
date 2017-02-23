@@ -6,7 +6,7 @@ Grup organizatörleri biletlerin fiyatlarını şöyle belirlemiştir.
 | ---------------------|:------------- | :-------|
 | 1 Aralık - 15 Ocak   | Blind Bird    | 250 TL  |
 | 16 Ocak  - 28 Şubat  | Early Bird    | 500 TL  | 
-| 1 Mart   - 1 Mayıs   | Regular       | 750 TL |
+| 1 Mart   - 30 Nisan  | Regular       | 750 TL |
 | 1 Mayıs  - 27 Mayıs  | Laggard       | 1000 TL | 
 
 
